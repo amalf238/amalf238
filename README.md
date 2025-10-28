@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# About Me
+As a Software Engineering student with a strong programming foundation, I am eager to learn new technologies, expand my skills and contribute to real-world projects through hard work, problem-solving, and teamwork.
 <!--
 **amalf238/amalf238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
