@@ -2,8 +2,12 @@
 As a Software Engineering student with a strong programming foundation, I am eager to learn new technologies, expand my skills and contribute to real-world projects through hard work, problem-solving, and teamwork. 
 - 🌱 I’m currently focused on preparing for the CKA exam to improve my Kubernetes skills.
 ---
-### 🐍 Watch my contribution graph get eaten up
-![snake gif](https://github.com/amalf238/amalf238/blob/output/snake.svg)
+🐍 Watch my contribution graph get eaten up
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amalf238/amalf238/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amalf238/amalf238/output/snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amalf238/amalf238/output/snake.svg">
+</picture>
 <!--
 **amalf238/amalf238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
