@@ -16,8 +16,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: amalf238
-          outputs: dist/snake.svg
-          palette: github-dark   # <<< FORCE DARK MODE
+          svg_out_path: dist/snake-dark.svg   # <<< FIX 1
+          palette: github-dark                # <<< FIX 2
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
