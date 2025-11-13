@@ -3,7 +3,7 @@ As a Software Engineering student with a strong programming foundation, I am eag
 - 🌱 I’m currently focused on preparing for the CKA exam to improve my Kubernetes skills.
 ---
 ### 🐍 Contribution Graph Snake
-![snake gif](https://github.com/amalf238/amalf238/blob/output/snake-dark.svg)
+![snake gif](https://github.com/amalf238/amalf238/blob/output/snake.svg)
 <!--
 **amalf238/amalf238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
