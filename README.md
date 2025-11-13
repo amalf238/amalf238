@@ -2,7 +2,7 @@
 As a Software Engineering student with a strong programming foundation, I am eager to learn new technologies, expand my skills and contribute to real-world projects through hard work, problem-solving, and teamwork. 
 - 🌱 I’m currently focused on preparing for the CKA exam to improve my Kubernetes skills.
 ---
-🐍 Watch my contribution graph get eaten up
+🐍 ### Watch my contribution graph get eaten up
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amalf238/amalf238/output/snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amalf238/amalf238/output/snake-light.svg">
