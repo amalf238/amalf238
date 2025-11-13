@@ -3,11 +3,7 @@ As a Software Engineering student with a strong programming foundation, I am eag
 - 🌱 I’m currently focused on preparing for the CKA exam to improve my Kubernetes skills
 ---
 ### Watch my contribution graph get eaten up 🐍
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amalf238/amalf238/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amalf238/amalf238/output/snake-light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amalf238/amalf238/output/snake.svg">
-</picture>
+![snake animation](https://raw.githubusercontent.com/amalf238/amalf238/output/github-contribution-grid-snake-dark.svg)
 <!--
 **amalf238/amalf238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
