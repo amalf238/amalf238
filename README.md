@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=150&section=header"/>
 <h2 align="left">Hi, I'm Amal Fernando 👋</h2>
 
-<p align="left">
-  <b>Full Stack Developer (Web & Mobile) · Software Engineering Graduate · ECU</b>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EC4B6&width=500&lines=Full+Stack+Developer+(Web+%26+Mobile);Software+Engineering+Graduate+%C2%B7+ECU)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
