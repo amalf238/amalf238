@@ -1,7 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=150&section=header"/>
 <h2 align="left">Hi, I'm Amal Fernando 👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EC4B6&width=500&lines=Full+Stack+Developer+(Web+%26+Mobile);Software+Engineering+Graduate+%C2%B7+ECU)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EC4B6&center=true&width=500&lines=Full+Stack+Developer+(Web+%26+Mobile);Software+Engineering+Graduate+%C2%B7+ECU"/>
+  </a>
+</p>
 
 ## 👨‍💻 About Me
 
