@@ -1,22 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=180&section=header&text=Amal%20Fernando&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=150&section=header"/>
 
-<p align="center"><b>Full Stack Developer (Web & Mobile)</b></p>
-
-## 👨‍💻 About Me
-
-Hi, I'm Amal — a Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications. 
+<h2 align="left">Hi, I'm Amal Fernando 👋</h2>
 
 <p align="left">
   <b>Full Stack Developer (Web & Mobile) · Software Engineering Graduate · ECU</b>
 </p>
 
-<p align="left">
-  Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications. Strong focus on backend systems, RESTful APIs, and scalable architecture — from concept to production.
-</p>
-
----
-
 ## 👨‍💻 About Me
+
+Hi, I'm Amal — a Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications. 
 
 - 🎓 BSc Computer Science (Software Engineering) — Edith Cowan University | GPA 3.625 (Distinction)
 
