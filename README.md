@@ -11,13 +11,19 @@
 
 ---
 
-## 🚀 About Mes
+## 👨‍💻 About Me
 
-- 🎓 **BSc in Computer Science (Software Engineering)** — Edith Cowan University | GPA: 3.625 (Distinction)
-- 🤖 Built **FixMate**, an AI-powered mobile app achieving 95%+ ML accuracy in service matching — graded High Distinction
-- ☁️ Currently self-studying **Kubernetes & Docker** (CKA curriculum) — Pods, Deployments, RBAC, cluster networking
-- 💡 Passionate about clean architecture, performance optimization, and real-world software solutions
-- 🌏 Based in Colombo, Sri Lanka
+- 🎓 BSc Computer Science (Software Engineering) — Edith Cowan University | GPA 3.625 (Distinction)
+- 🌏 Based in Colombo, Sri Lanka — open to opportunities at Sri Lankan product companies
+- 🔨 Working on **Menu 360** — a full-stack digital dining platform with AR-powered QR menus, built with JavaScript, Supabase, and Vercel
+- ☁️ Self-studying Kubernetes & Docker toward CKA certification
+
+---
+
+## 📊 GitHub Stats
+
+![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalf238&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amalf238&layout=compact&theme=dark&hide_border=true)
 
 ---
 
