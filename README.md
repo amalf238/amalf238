@@ -13,10 +13,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 BSc Computer Science (Software Engineering) — Edith Cowan University | GPA 3.625 (Distinction)
-- 🌏 Based in Colombo, Sri Lanka — open to opportunities at Sri Lankan product companies
 - 🔨 Working on **Menu 360** — a full-stack digital dining platform with AR-powered QR menus, built with JavaScript, Supabase, and Vercel
 - ☁️ Self-studying Kubernetes & Docker toward CKA certification
-
+s
 ---
 
 ## 🛠️ Tech Stack
