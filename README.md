@@ -5,8 +5,7 @@
 </p>
 
 <p align="left">
-  Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications.<br>
-  Strong focus on backend systems, RESTful APIs, and scalable architecture — from concept to production.
+  Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications. Strong focus on backend systems, RESTful APIs, and scalable architecture — from concept to production.
 </p>
 
 ---
@@ -65,4 +64,4 @@
 
 ![snake animation](https://raw.githubusercontent.com/amalf238/amalf238/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:2ec4b6&height=150&section=footer&text=Building%20systems%20that%20hold%20up%20as%20they%20grow&fontSize=12&fontColor=ffffff&fontAlign=50&fontAlignY=88&fontStyle=normal"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:2ec4b6&height=120&section=footer"/>
