@@ -47,17 +47,6 @@
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
-
-## 🔥 What I Focus On
-
-- Designing scalable backend systems and efficient RESTful APIs
-- Building full-stack applications end-to-end — mobile and web
-- Writing clean, maintainable, production-ready code
-- Integrating AI/ML capabilities into real-world applications
-- Improving performance and avoiding architectural bottlenecks
-
----
 
 ## 📬 Connect With Me
 
