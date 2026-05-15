@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=180&section=header&text=Amal%20Fernando&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=30&desc=Full%20Stack%20Developer%20(Web%20%26%20Mobile)&descSize=14&descAlign=50&descAlignY=48"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=180&section=header&text=Amal%20Fernando&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=35"/>
+
+<p align="center"><b>Full Stack Developer (Web & Mobile)</b></p>
 
 ## 👨‍💻 About Me
 
