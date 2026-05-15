@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=150&section=header"/>
-
 <h2 align="left">Hi, I'm Amal Fernando 👋</h2>
 
 <p align="left">
@@ -8,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Amal — a Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications. 
+I am a Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications. 
 
 - 🎓 BSc Computer Science (Software Engineering) — Edith Cowan University | GPA 3.625 (Distinction)
 
