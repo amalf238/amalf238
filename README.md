@@ -13,9 +13,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 BSc Computer Science (Software Engineering) — Edith Cowan University | GPA 3.625 (Distinction)
+
 - 🔨 Working on **Menu 360** — a full-stack digital dining platform with AR-powered QR menus, built with JavaScript, Supabase, and Vercel
+
 - ☁️ Self-studying Kubernetes & Docker toward CKA certification
-s
+
 ---
 
 ## 🛠️ Tech Stack
