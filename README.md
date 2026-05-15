@@ -67,6 +67,4 @@
 
 ---
 
-<p align="center">
-  <i>"Building systems that hold up as they grow."</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39d353&height=120&section=footer"/>
