@@ -1,4 +1,10 @@
-<h2 align="left">Hi, I'm Amal Fernando 👋</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=180&section=header&text=Amal%20Fernando&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Web%20%26%20Mobile%20%7C%20Software%20Engineering%20Graduate&descSize=16&descAlign=50&descAlignY=68"/>
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm Amal — a Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications. 
 
 <p align="left">
   <b>Full Stack Developer (Web & Mobile) · Software Engineering Graduate · ECU</b>
