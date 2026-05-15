@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Amal Fernando 👋</h1>
+<h2 align="left">Hi, I'm Amal Fernando 👋</h2>
 
-<p align="center">
+<p align="left">
   <b>Full Stack Developer (Web & Mobile) · Software Engineering Graduate · ECU</b>
 </p>
 
-<p align="center">
+<p align="left">
   Software Engineering graduate with hands-on experience building and deploying AI-powered, cloud-native applications.<br>
   Strong focus on backend systems, RESTful APIs, and scalable architecture — from concept to production.
 </p>
