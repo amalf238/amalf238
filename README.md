@@ -67,4 +67,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39d353&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:2ec4b6&height=120&section=footer"/>
