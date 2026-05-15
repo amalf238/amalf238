@@ -20,15 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amalf238&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Amal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalf238&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
