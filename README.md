@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amalf238&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=amalf238&theme=dark&hide_border=true&ring=2ec4b6&fire=2ec4b6&currStreakLabel=2ec4b6&sideLabels=2ec4b6&dates=ffffff)
 
 ---
 
