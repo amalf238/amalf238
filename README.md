@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ec4b6,100:39d353&height=150&section=header"/>
+<img src="amal_fernando_github_cover.png" width="100%"/>
 <h2 align="left">Hi, I'm Amal Fernando 👋</h2>
 
 <p align="center">
